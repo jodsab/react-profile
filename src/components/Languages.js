@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React/* , { useState } */ from 'react';
 import langs from './Lenguajes.json';
 import './Languages.css';
-import Niveles from './Niveles';
+/* import Niveles from './Niveles'; */
 
 class Languages extends React.Component {
 

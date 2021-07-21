@@ -4,7 +4,7 @@ function Proyectos() {
     return (
         <div className='proyectos'>
             <div>
-                <img src='./others/building.png' />
+                <img src='./others/building.png' alt='trabajando'/>
             </div>
         </div>
     )

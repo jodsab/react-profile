@@ -1,5 +1,5 @@
 import React from 'react';
-import cursos from './Lenguajes.json';
+/* import cursos from './Lenguajes.json'; */
 import './Curriculum.css';
 
 
@@ -12,7 +12,7 @@ function Curriculum() {
         <div className='cv_container'>
             <div className='profile_container'>
                 <div className='cont_perfil' >
-                    <img src={process.env.PUBLIC_URL + 'others/perfil.png'} className='fotoperfil' alt='Foto perfil' />
+                    <img src='./others/perfil.png' className='fotoperfil' alt='Foto perfil' />
                     <h3>Tito Camilo Bohorquez Quito</h3>
                     <h4>Full Stack Developer</h4>
                 </div>
