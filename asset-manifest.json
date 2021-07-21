@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/side-bar/static/css/main.4e43fbdd.chunk.css",
-    "main.js": "/side-bar/static/js/main.568d74b4.chunk.js",
-    "main.js.map": "/side-bar/static/js/main.568d74b4.chunk.js.map",
-    "runtime-main.js": "/side-bar/static/js/runtime-main.e82e0e63.js",
-    "runtime-main.js.map": "/side-bar/static/js/runtime-main.e82e0e63.js.map",
-    "static/js/2.3c3681d2.chunk.js": "/side-bar/static/js/2.3c3681d2.chunk.js",
-    "static/js/2.3c3681d2.chunk.js.map": "/side-bar/static/js/2.3c3681d2.chunk.js.map",
-    "index.html": "/side-bar/index.html",
-    "static/css/main.4e43fbdd.chunk.css.map": "/side-bar/static/css/main.4e43fbdd.chunk.css.map",
-    "static/js/2.3c3681d2.chunk.js.LICENSE.txt": "/side-bar/static/js/2.3c3681d2.chunk.js.LICENSE.txt"
+    "main.css": "/react-profile/static/css/main.4e43fbdd.chunk.css",
+    "main.js": "/react-profile/static/js/main.5d8efc54.chunk.js",
+    "main.js.map": "/react-profile/static/js/main.5d8efc54.chunk.js.map",
+    "runtime-main.js": "/react-profile/static/js/runtime-main.60dadfdf.js",
+    "runtime-main.js.map": "/react-profile/static/js/runtime-main.60dadfdf.js.map",
+    "static/js/2.e889dedc.chunk.js": "/react-profile/static/js/2.e889dedc.chunk.js",
+    "static/js/2.e889dedc.chunk.js.map": "/react-profile/static/js/2.e889dedc.chunk.js.map",
+    "index.html": "/react-profile/index.html",
+    "static/css/main.4e43fbdd.chunk.css.map": "/react-profile/static/css/main.4e43fbdd.chunk.css.map",
+    "static/js/2.e889dedc.chunk.js.LICENSE.txt": "/react-profile/static/js/2.e889dedc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e82e0e63.js",
-    "static/js/2.3c3681d2.chunk.js",
+    "static/js/runtime-main.60dadfdf.js",
+    "static/js/2.e889dedc.chunk.js",
     "static/css/main.4e43fbdd.chunk.css",
-    "static/js/main.568d74b4.chunk.js"
+    "static/js/main.5d8efc54.chunk.js"
   ]
 }
