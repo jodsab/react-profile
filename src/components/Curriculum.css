@@ -1,0 +1,97 @@
+.profile_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.cont_perfil{
+    text-align: center;
+}
+
+.cont_perfil img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.cont_perfil h3{
+    font-size: 25px;
+    margin: auto;
+}
+
+.cont_perfil h4{
+    font-size: 21px;
+}
+
+.cont_personal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.cont_personal p{
+    width: 80%;
+    margin-top: 15px;
+}
+
+.cont_personal img{
+    width: 140px;
+}
+
+.cont_cursos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 10px;
+}
+
+.cont_cursos div{
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cont_cursos h5{
+    font-size: 16px;
+    margin: 0;
+}
+
+.cont_cursos img{
+    width: 75px;
+    margin: auto;
+}
+
+.cont_cursos p{
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.stack_container{
+    margin-top: 32px;
+}
+
+.stackdev h3{
+    text-align: center;
+    margin: 12px 0;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .profile_container{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .cv_container{
+        height: 100%;
+    }
+
+    .cont_perfil h3{
+        width: 60%;
+    }
+}

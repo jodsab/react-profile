@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2,
+        "name": "Mongo DB" ,
+        "nivel": 1,
+        "src": "/mongodb.png"
+    },
+    {
+        "id": 3,
+        "name": "Express" ,
+        "nivel": 1,
+        "src": "/express.png"
+    },
+    {
+        "id": 4,
+        "name": "React" ,
+        "nivel": 2,
+        "src": "/react.png"
+    },
+    {
+        "id": 5,
+        "name": "Node JS" ,
+        "nivel": 1,
+        "src": "/nodejs.png"
+    },
+    {
+        "id": 6,
+        "name": "HTML" ,
+        "nivel": 3,
+        "src": "/html.png"
+    },
+    {
+        "id": 7,
+        "name": "CSS" ,
+        "nivel": 3,
+        "src": "/css.png"
+    },
+    {
+        "id": 8,
+        "name": "Java Script" ,
+        "nivel": 3,
+        "src": "/js.png"
+    },
+    {
+        "id": 9,
+        "name": "C++" ,
+        "nivel": 3,
+        "src": "/cpp.png"
+    },
+    {
+        "id": 10,
+        "name": "Java" ,
+        "nivel": 2,
+        "src": "/java.png"
+    },
+    {
+        "id": 11,
+        "name": "SASS" ,
+        "nivel": 3,
+        "src": "/sass.png"
+    },
+    {
+        "id": 12,
+        "name": "My SQL" ,
+        "nivel": 2,
+        "src": "/mysql.png"
+    },
+    {
+        "id": 13,
+        "name": "GitHub" ,
+        "nivel": 2,
+        "src": "/github.png"
+    },
+    {
+        "id": 14,
+        "name": "Fl Studio" ,
+        "nivel": 3,
+        "src": "/flstudio.png"
+    },
+    {
+        "id": 15,
+        "name": "Photoshop" ,
+        "nivel": 2,
+        "src": "/photoshop.png"
+    }
+]
