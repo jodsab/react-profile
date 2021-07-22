@@ -9,7 +9,7 @@ module.exports = {
         path: path.resolve(__dirname, "dist"),
         publicPath: ""
     },
-    mode: "development",
+    mode: "production",
     module: {
         rules: [
             {
@@ -18,8 +18,14 @@ module.exports = {
                 exclude: /node_modules/
             },
             {
-                test: /\.(png|svg|jpg|jpeg|gif)$/i,
                 type: 'asset/resource',
+                test: /\.(png|svg|jpg|jpeg|gif)$/i,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {}
+                    }
+                ]
               },
         ]
     },
