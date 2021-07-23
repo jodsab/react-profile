@@ -1,26 +1,36 @@
 {
   "files": {
     "main.css": "/react-profile/static/css/main.4e43fbdd.chunk.css",
-    "main.js": "/react-profile/static/js/main.f03c00c9.chunk.js",
-    "main.js.map": "/react-profile/static/js/main.f03c00c9.chunk.js.map",
+    "main.js": "/react-profile/static/js/main.162490dd.chunk.js",
+    "main.js.map": "/react-profile/static/js/main.162490dd.chunk.js.map",
     "runtime-main.js": "/react-profile/static/js/runtime-main.60dadfdf.js",
     "runtime-main.js.map": "/react-profile/static/js/runtime-main.60dadfdf.js.map",
-    "static/js/2.e889dedc.chunk.js": "/react-profile/static/js/2.e889dedc.chunk.js",
-    "static/js/2.e889dedc.chunk.js.map": "/react-profile/static/js/2.e889dedc.chunk.js.map",
+    "static/js/2.13a7932a.chunk.js": "/react-profile/static/js/2.13a7932a.chunk.js",
+    "static/js/2.13a7932a.chunk.js.map": "/react-profile/static/js/2.13a7932a.chunk.js.map",
     "index.html": "/react-profile/index.html",
     "static/css/main.4e43fbdd.chunk.css.map": "/react-profile/static/css/main.4e43fbdd.chunk.css.map",
-    "static/js/2.e889dedc.chunk.js.LICENSE.txt": "/react-profile/static/js/2.e889dedc.chunk.js.LICENSE.txt",
-    "static/media/express.d3451695.png": "/react-profile/static/media/express.d3451695.png",
-    "static/media/mongodb.9213f749.png": "/react-profile/static/media/mongodb.9213f749.png",
-    "static/media/nodejs.c2a1598d.png": "/react-profile/static/media/nodejs.c2a1598d.png",
+    "static/js/2.13a7932a.chunk.js.LICENSE.txt": "/react-profile/static/js/2.13a7932a.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.png": "/react-profile/static/media/bootstrap.57c53b26.png",
+    "static/media/building.png": "/react-profile/static/media/building.063424a0.png",
+    "static/media/cpp.png": "/react-profile/static/media/cpp.daf799b6.png",
+    "static/media/express.png": "/react-profile/static/media/express.d3451695.png",
+    "static/media/flstudio.png": "/react-profile/static/media/flstudio.35502cbf.png",
+    "static/media/git.png": "/react-profile/static/media/git.2ef1e8b1.png",
+    "static/media/github.png": "/react-profile/static/media/github.b398d0b3.png",
+    "static/media/java.png": "/react-profile/static/media/java.f5f3b72d.png",
+    "static/media/mongodb.png": "/react-profile/static/media/mongodb.9213f749.png",
+    "static/media/mysql.png": "/react-profile/static/media/mysql.09dbc875.png",
+    "static/media/nodejs.png": "/react-profile/static/media/nodejs.c2a1598d.png",
     "static/media/perfil.e731c786.png": "/react-profile/static/media/perfil.e731c786.png",
-    "static/media/react.eb0b5ced.png": "/react-profile/static/media/react.eb0b5ced.png",
+    "static/media/photoshop.png": "/react-profile/static/media/photoshop.6024c860.png",
+    "static/media/react.png": "/react-profile/static/media/react.eb0b5ced.png",
+    "static/media/sass.png": "/react-profile/static/media/sass.47177112.png",
     "static/media/unmsm.8c93ccf5.png": "/react-profile/static/media/unmsm.8c93ccf5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.60dadfdf.js",
-    "static/js/2.e889dedc.chunk.js",
+    "static/js/2.13a7932a.chunk.js",
     "static/css/main.4e43fbdd.chunk.css",
-    "static/js/main.f03c00c9.chunk.js"
+    "static/js/main.162490dd.chunk.js"
   ]
 }
