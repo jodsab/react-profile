@@ -18,13 +18,17 @@
   justify-content: center;
 }
 
-.experiencia,.conocimientos{
+.proyectos,.conocimientos{
+  flex-direction: column;
+}
+
+.experiencia{
   flex-direction: column;
 }
 
 @media only screen and (max-width: 900px) {
 
-  .conocimientos {
+  .conocimientos, .proyectos {
       height: 100%;
   }
 }

@@ -1,0 +1,35 @@
+.webscontainer{
+    display: grid;
+    gap: 40px;
+    text-align: center;
+    grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
+    justify-content: center;
+}
+
+.webscontainer div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.webscontainer div button{
+    padding: 10px;
+    background-color: rgb(191, 190, 255);
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.webscontainer div p{
+    margin: 5px 0;
+}
+
+.webscontainer div button:hover{
+    background-color: rgb(118, 80, 255);
+}
+
+.webscontainer div button:active{
+    background-color: rgb(66, 24, 214);
+    box-shadow: 0 0 8px black;
+}

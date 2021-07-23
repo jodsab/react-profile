@@ -1,11 +1,15 @@
 import React from 'react';
+import Otrasweb from '../components/Otrasweb';
+
+
 
 function Proyectos() {
+    
     return (
+        
         <div className='proyectos'>
-            <div>
-                <img src={require('../img/others/building.png').default} alt='trabajando'/>
-            </div>
+            <h2>Proyectos</h2>
+            <Otrasweb />
         </div>
     )
 }
