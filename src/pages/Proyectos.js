@@ -4,7 +4,7 @@ function Proyectos() {
     return (
         <div className='proyectos'>
             <div>
-                <img src='./others/building.png' alt='trabajando'/>
+                <img src={require('../img/others/building.png').default} alt='trabajando'/>
             </div>
         </div>
     )

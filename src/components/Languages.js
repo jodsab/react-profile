@@ -13,7 +13,6 @@ class Languages extends React.Component {
     }
 
     render() {
-        const link = './images';
 
         return (
             <>
@@ -28,7 +27,7 @@ class Languages extends React.Component {
                     {langs.map((item) => (
                         <li key={item.id} >
                             <p>{item.name}</p>
-                            <img src={`${link}${item.src}`} alt={item.name} />
+                            <img src={require(`../img/images${item.src}`).default} alt={item.name} />
                         </li>
                     ))}
                 </ul>

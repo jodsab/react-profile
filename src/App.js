@@ -15,9 +15,9 @@ export function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/conocimientos' exact component={Conocimientos} />
-          <Route path='/proyectos' exact component={Proyectos} />
-          <Route path='/contacto' exact component={Contacto} />
+          <Route path='/conocimientos'  component={Conocimientos} />
+          <Route path='/proyectos'  component={Proyectos} />
+          <Route path='/contacto'  component={Contacto} />
           <Route path='/' component={Error} />
         </Switch>
       </Router>
