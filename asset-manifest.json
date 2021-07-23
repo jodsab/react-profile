@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/react-profile/static/css/main.96f1bc6f.chunk.css",
-    "main.js": "/react-profile/static/js/main.e689a37b.chunk.js",
-    "main.js.map": "/react-profile/static/js/main.e689a37b.chunk.js.map",
+    "main.css": "/react-profile/static/css/main.fdbb499e.chunk.css",
+    "main.js": "/react-profile/static/js/main.8fd53b49.chunk.js",
+    "main.js.map": "/react-profile/static/js/main.8fd53b49.chunk.js.map",
     "runtime-main.js": "/react-profile/static/js/runtime-main.60dadfdf.js",
     "runtime-main.js.map": "/react-profile/static/js/runtime-main.60dadfdf.js.map",
-    "static/js/2.13a7932a.chunk.js": "/react-profile/static/js/2.13a7932a.chunk.js",
-    "static/js/2.13a7932a.chunk.js.map": "/react-profile/static/js/2.13a7932a.chunk.js.map",
+    "static/js/2.a82dbfa1.chunk.js": "/react-profile/static/js/2.a82dbfa1.chunk.js",
+    "static/js/2.a82dbfa1.chunk.js.map": "/react-profile/static/js/2.a82dbfa1.chunk.js.map",
     "index.html": "/react-profile/index.html",
-    "static/css/main.96f1bc6f.chunk.css.map": "/react-profile/static/css/main.96f1bc6f.chunk.css.map",
-    "static/js/2.13a7932a.chunk.js.LICENSE.txt": "/react-profile/static/js/2.13a7932a.chunk.js.LICENSE.txt",
+    "static/css/main.fdbb499e.chunk.css.map": "/react-profile/static/css/main.fdbb499e.chunk.css.map",
+    "static/js/2.a82dbfa1.chunk.js.LICENSE.txt": "/react-profile/static/js/2.a82dbfa1.chunk.js.LICENSE.txt",
     "static/media/bootstrap.png": "/react-profile/static/media/bootstrap.57c53b26.png",
     "static/media/cpp.png": "/react-profile/static/media/cpp.daf799b6.png",
     "static/media/express.png": "/react-profile/static/media/express.d3451695.png",
+    "static/media/facebook.png": "/react-profile/static/media/facebook.7ef32419.png",
     "static/media/flstudio.png": "/react-profile/static/media/flstudio.35502cbf.png",
     "static/media/git.png": "/react-profile/static/media/git.2ef1e8b1.png",
     "static/media/github.png": "/react-profile/static/media/github.b398d0b3.png",
+    "static/media/instagram.png": "/react-profile/static/media/instagram.ed2b25f0.png",
     "static/media/java.png": "/react-profile/static/media/java.f5f3b72d.png",
     "static/media/mongodb.png": "/react-profile/static/media/mongodb.9213f749.png",
     "static/media/mysql.png": "/react-profile/static/media/mysql.09dbc875.png",
@@ -28,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.60dadfdf.js",
-    "static/js/2.13a7932a.chunk.js",
-    "static/css/main.96f1bc6f.chunk.css",
-    "static/js/main.e689a37b.chunk.js"
+    "static/js/2.a82dbfa1.chunk.js",
+    "static/css/main.fdbb499e.chunk.css",
+    "static/js/main.8fd53b49.chunk.js"
   ]
 }
