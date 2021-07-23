@@ -31,4 +31,8 @@
   .conocimientos, .proyectos {
       height: 100%;
   }
+
+  .contacto {
+    flex-wrap: wrap;
+  }
 }

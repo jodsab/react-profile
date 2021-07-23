@@ -1,0 +1,18 @@
+.redescontainer{
+    margin: auto;
+}
+
+.redescontainer div{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.redescontainer div img{
+    width: 20px;
+    margin: 10px;
+}
+
+.redescontainer div a:visited{
+    color: blue;
+}

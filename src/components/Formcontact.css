@@ -1,11 +1,12 @@
 .cont_formulario{
     width: 50%;
+    margin: auto;
 }
 
 .formulario{
     display: flex;
     flex-direction: column;
-    background-color: rgb(157, 157, 255);
+    background-color: rgb(255, 232, 232);
     padding: 20px;
     border-radius: 25px;
 }
@@ -18,7 +19,7 @@
     margin-bottom: 12px;
     border-radius: 6px;
     padding: 3px 5px;
-    background-color: rgb(199, 219, 255);
+    background-color: rgb(228, 226, 255);
     border: none;
 }
 
@@ -26,14 +27,13 @@
 .cont_formulario h4{
     text-align: center;
     margin-bottom: 12px;
-    font-size: 1.2rem;
 }
 
 .formulario textarea{
     margin: 10px 0 12px 0;
     border-radius: 6px;
     padding: 3px 5px;
-    background-color: rgb(199, 219, 255);
+    background-color: rgb(228, 226, 255);
 }
 
 #textarea{
@@ -52,6 +52,6 @@
 
     .cont_formulario {
         height: 100%;
-        width: 95%;
+        width: 90%;
     }
   }

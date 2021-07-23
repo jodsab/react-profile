@@ -4,7 +4,8 @@ import './Formcontact.css';
 function Formcontact() {
     return (
         <div className='cont_formulario'>
-            <h4>CONTACTO</h4>
+            <h4>Contacto</h4>
+            <p>**No functiona en GitHub pages**</p>
             <form className='formulario'>
                 <label for='name'>Nombre: </label>    
                 <input type='text' name='name'></input>
