@@ -17,7 +17,7 @@ function Curriculum() {
                 <div className='cont_perfil' >
                     <img src={perfilImage} className='fotoperfil' alt='Foto perfil' />
                     <h3>Tito Camilo Bohorquez Quito</h3>
-                    <h4>Full Stack Developer</h4>
+                    <h4>Full Stack Developer.</h4>
                 </div>
 
                 <div className='cont_personal' >
