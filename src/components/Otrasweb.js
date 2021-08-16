@@ -16,6 +16,12 @@ function Otrasweb() {
                 <p>Visitar Sitio:</p>
                 <a href='https://jodsab.github.io/cvcamilo/' target='_blank'><button>Mi primer perfil</button></a>
             </div>
+            <div>
+                <h4>Red de Dota Pro Players Peruanos</h4>
+                <iframe title="red de pro players peruanos" height='500' width='360' src='https://jodsab.github.io/peru-pro-players/'></iframe>
+                <p>Visitar Sitio:</p>
+                <a href='https://jodsab.github.io/peru-pro-players/' target='_blank' rel="noopener noreferrer"><button>Pro-Players</button></a>
+            </div>
         </div>
     )
 }
