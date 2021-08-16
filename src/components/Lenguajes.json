@@ -82,5 +82,17 @@
         "name": "Photoshop" ,
         "nivel": 2,
         "src": "/photoshop.png"
+    },
+    {
+        "id": 16,
+        "name": "Vegas Pro" ,
+        "nivel": 2,
+        "src": "/vegaspro.png"
+    },
+    {
+        "id": 17,
+        "name": "Webpack" ,
+        "nivel": 2,
+        "src": "/webpack.png"
     }
 ]
