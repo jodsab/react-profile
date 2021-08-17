@@ -1,35 +1,38 @@
-.webscontainer{
+.webscontainer {
     display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 40px;
-    text-align: center;
-    grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
-    justify-content: center;
+    width: 90%;
+    margin-top: 25px;
 }
 
-.webscontainer div{
+.title_text_container{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
-    padding: 10px 50px;
+    justify-content: center;
+    text-align: center;
 }
 
-.webscontainer div button{
-    padding: 10px;
-    background-color: rgb(191, 190, 255);
-    border-radius: 12px;
+.title_text_container button{
     cursor: pointer;
+    margin: 15px 0 15px 6px;
+    padding: 5px 16px;
+    background-color: rgb(198, 255, 255);
+    border: 2px solid rgb(141, 141, 141);
 }
 
-.webscontainer div p{
-    margin: 5px 0;
+.title_text_container button:hover{
+    background-color: rgb(22, 255, 255);
 }
 
-.webscontainer div button:hover{
-    background-color: rgb(118, 80, 255);
+.title_text_container button:active{
+    background-color: rgb(155, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
 }
 
-.webscontainer div button:active{
-    background-color: rgb(66, 24, 214);
-    box-shadow: 0 0 8px black;
+.proyect_text{
+    height: 140px;
+    width: 80%;
+    margin: auto;
 }

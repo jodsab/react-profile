@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Jodsab Boosting Service",
+        "status": "(Beta)",
+        "description": "Ayuda a mis clientes a calcular precios de mis servicios como Booster, permite comprar promociones a través de tarjetas.",
+        "link": "https://jodsab.github.io/using-sass/"
+    },
+    {
+        "id": 2,
+        "name": "Web developer",
+        "status": "(Terminado)",
+        "description": "Primera pagina web desarrollada usando puro HTML, CSS y Java Script.",
+        "link": "https://jodsab.github.io/cvcamilo/"
+    },
+    {
+        "id": 3,
+        "name": "Peruvians Pro Players",
+        "status": "(En desarrollo)",
+        "description": "Muestra links de todos los jugadores peruanos con sus respetivas estadisticas.",
+        "link": "https://jodsab.github.io/peru-pro-players/"
+    }
+]
