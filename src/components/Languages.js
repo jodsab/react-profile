@@ -1,7 +1,6 @@
-import React/* , { useState } */ from 'react';
+import React from 'react';
 import langs from './Lenguajes.json';
 import './Languages.css';
-/* import Niveles from './Niveles'; */
 
 class Languages extends React.Component {
 
@@ -10,7 +9,7 @@ class Languages extends React.Component {
         this.state = {
             nivel: 0,
         }
-    }
+    }     
 
     render() {
 
@@ -31,11 +30,6 @@ class Languages extends React.Component {
                         </li>
                     ))}
                 </ul>
-                {/* <ul>
-                    {langs.map((info) => (
-                        <Niveles info={info} nivel={this.state.nivel} />
-                    ))}
-                </ul> */}
             </>
         )
     }

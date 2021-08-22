@@ -3,96 +3,112 @@
         "id": 2,
         "name": "Mongo DB" ,
         "nivel": 1,
-        "src": "/mongodb.png"
+        "src": "/mongodb.png",
+        "type": "Database"
     },
     {
         "id": 3,
         "name": "Express" ,
         "nivel": 1,
-        "src": "/express.png"
+        "src": "/express.png",
+        "type": "Backend"
     },
     {
         "id": 4,
         "name": "React" ,
         "nivel": 2,
-        "src": "/react.png"
+        "src": "/react.png",
+        "type": "Frontend"
     },
     {
         "id": 5,
         "name": "Node JS" ,
         "nivel": 1,
-        "src": "/nodejs.png"
+        "src": "/nodejs.png",
+        "type": "Backend"
     },
     {
         "id": 6,
         "name": "HTML" ,
         "nivel": 3,
-        "src": "/html.png"
+        "src": "/html.png",
+        "type": "Frontend"
     },
     {
         "id": 7,
         "name": "CSS" ,
         "nivel": 3,
-        "src": "/css.png"
+        "src": "/css.png",
+        "type": "Frontend"
     },
     {
         "id": 8,
         "name": "Java Script" ,
         "nivel": 3,
-        "src": "/js.png"
+        "src": "/js.png",
+        "type": "Frontend"
     },
     {
         "id": 9,
         "name": "C++" ,
         "nivel": 3,
-        "src": "/cpp.png"
+        "src": "/cpp.png",
+        "type": "Programacion"
     },
     {
         "id": 10,
         "name": "Java" ,
         "nivel": 2,
-        "src": "/java.png"
+        "src": "/java.png",
+        "type": "Programacion"
     },
     {
         "id": 11,
         "name": "SASS" ,
         "nivel": 3,
-        "src": "/sass.png"
+        "src": "/sass.png",
+        "type": "Frontend"
     },
     {
         "id": 12,
         "name": "My SQL" ,
         "nivel": 2,
-        "src": "/mysql.png"
+        "src": "/mysql.png",
+        "type": "Database"
     },
     {
         "id": 13,
         "name": "GitHub" ,
         "nivel": 2,
-        "src": "/github.png"
+        "src": "/github.png",
+        "type": "Repositorio"
     },
     {
         "id": 14,
         "name": "Fl Studio" ,
         "nivel": 3,
-        "src": "/flstudio.png"
+        "src": "/flstudio.png",
+        "type": "Otros"
     },
     {
         "id": 15,
         "name": "Photoshop" ,
         "nivel": 2,
-        "src": "/photoshop.png"
+        "src": "/photoshop.png",
+        "type": "Otros"
     },
     {
         "id": 16,
         "name": "Vegas Pro" ,
         "nivel": 2,
-        "src": "/vegaspro.png"
+        "src": "/vegaspro.png",
+        "type": "Otros"
     },
     {
         "id": 17,
         "name": "Webpack" ,
         "nivel": 2,
-        "src": "/webpack.png"
+        "src": "/webpack.png",
+        "type": "Backend"
     }
 ]
