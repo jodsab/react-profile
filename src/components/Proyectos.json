@@ -19,5 +19,12 @@
         "status": "(En desarrollo)",
         "description": "Muestra links de todos los jugadores peruanos con sus respetivas estadisticas.",
         "link": "https://jodsab.github.io/peru-pro-players/"
+    },
+    {
+        "id": 4,
+        "name": "AQV ERGO WASI",
+        "status": "(En desarrollo)",
+        "description": "Plataforma de cursos certificados de Ergonomía.",
+        "link": "https://www.aqvergowasi.com"
     }
 ]
