@@ -26,5 +26,12 @@
         "status": "(En desarrollo)",
         "description": "Plataforma de cursos certificados de Ergonomía.",
         "link": "https://www.aqvergowasi.com"
+    },
+    {
+        "id": 5,
+        "name": "INTIKISA",
+        "status": "(En desarrollo)",
+        "description": "Tienda online de productos naturales",
+        "link": "https://intikisaperu.com"
     }
 ]
